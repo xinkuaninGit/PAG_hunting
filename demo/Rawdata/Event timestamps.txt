@@ -1,0 +1,4 @@
+put in: 71.499
+chasing duration: 83.233,85.827
+attack duration:  87.020,101.803
+eating duration: 181.675,439.844 
